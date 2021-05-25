@@ -1,4 +1,5 @@
 # Plotly Challenge: Interactive Visualizations and Dashboard
+View the final project at https://jesskhunter.github.io/Plotly-Challenge/
 
 ## Plot.ly Homework - Belly Button Biodiversity -
 
